@@ -1,0 +1,14 @@
+.card__botoes {
+    display: flex;
+    justify-content: space-between;
+    }
+    .botoes {
+        display: flex;
+        }
+        .card__botoes {
+            display: flex;
+            justify-content: space-between;
+            }
+            .botoes {
+                display: flex;
+                }
